@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TydiRoutine" parent="Theme.MaterialComponents.Light.NoActionBar">
+       <item name="colorPrimary">#FF5922</item>
+        <item name="colorPrimaryDark">#FF5922</item>
+
+        <item name="colorSecondary">#FF5922</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+</resources>

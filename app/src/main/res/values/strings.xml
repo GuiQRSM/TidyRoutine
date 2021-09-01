@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TydiRoutine</string>
+    <string name="tarefas_text">Tarefas</string>
+    <string name="título_il">Título</string>
+    <string name="data">Data</string>
+    <string name="hora">hora</string>
+    <string name="create_task">Criar Tarefa</string>
+    <string name="cancel_task">Cancelar</string>
+    <string name="description_new_task">Nova Tarefa</string>
+    <string name="date_hour_tv">31/08/2021 17:00</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Deletar</string>
+</resources>
