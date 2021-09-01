@@ -10,4 +10,5 @@
     <string name="date_hour_tv">31/08/2021 17:00</string>
     <string name="menu_edit">Editar</string>
     <string name="menu_delete">Deletar</string>
+    <string name="es_you_have_any_task">Opa, parece que você ainda não\n possui nenhuma tarefa.</string>
 </resources>
